@@ -1,0 +1,32 @@
+body{
+	background-color: #f1f1f1;
+/*	text-align: center;
+*/	width: 960px;
+	margin: 50px 100px;
+	
+}
+
+.navigate li{
+	display: inline;
+	
+}
+
+.navigate a{
+	display: inline-block;
+}
+a{
+	text-decoration: none;
+	margin: 10px 10px;
+}
+
+p{
+	margin: 30px 120px;
+}
+
+.field {
+	margin:20px 100px;
+}
+
+article{
+	margin: 20px 30px;
+}
