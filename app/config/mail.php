@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'mindaugas.azubalis@gmail.com', 'name' => 'Auth'),
+	'from' => array('address' => 'cia irasyti emaila', 'name' => 'Auth'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'mindaugas.azubalis@gmail.com',
+	'username' => 'cia eina emailas',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'generatorius',
+	'password' => 'emailo passw',
 
 	/*
 	|--------------------------------------------------------------------------
